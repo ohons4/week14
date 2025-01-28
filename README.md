@@ -1,9 +1,10 @@
 # Git完全に理解した
 
 (main) 今日はcommitとbranch, mergeについて勉強する。
-ブランチは次のようにして来ることができる
+ブランチは次のようにして切ることができる。
 ``` zsh
 git branch <branchname>
+git branch develop # developというローカルブランチができる
 ```
 
 (develop) ここではdevelopブランチに記述してます。
